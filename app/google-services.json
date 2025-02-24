@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533263250958",
+    "project_id": "k-ceros",
+    "storage_bucket": "k-ceros.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533263250958:android:b84386dd1a31195047ee5f",
+        "android_client_info": {
+          "package_name": "com.example.kcerosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjOVLxw9uuI0vvMozl_dWthfIpx3NdXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
